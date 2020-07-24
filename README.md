@@ -12,6 +12,10 @@ This (in the future you can change the delimiter from 🌈 Rainbow to whatever y
 PS1=$(stc_ps1 '🌈Green[🌈Red\u🌈Reset@🌈IGreen\h🌈Reset:🌈InvGreen\w] $🌈Reset')
 ```
 
+![](images/screenshot.svg)
+
+[HTML screenshot](images/screenshot.xhtml)
+
 Current Attribute names:
 ```
 Bold    # Bold text only, keep colors
