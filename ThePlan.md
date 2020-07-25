@@ -36,4 +36,21 @@ IntenseRed
 OnRed
 OnIntenseRed
 ```
+* Then support aliases:
+```
+Bold                Strong
+InvertColors        Invert
+ClearAttributes     Clear
+ResetAllAttributes  Reset
 
+Red
+IntenseRed          BrightRed
+OnRed               BackgroundRed
+OnIntenseRed        BackgroundBrightRed
+```
+* Finally support Abbreviations (Only has to be long enough to be unique):
+```
+Blue                    Blu
+Black                   Blac    Bla
+BackgroundBrightBlue    BaBrBlu
+```
